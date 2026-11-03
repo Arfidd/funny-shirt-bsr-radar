@@ -1,0 +1,6 @@
+﻿{
+  "dataUrl": "https://raw.githubusercontent.com/Arfidd/funny-shirt-bsr-radar/main/data/bsr_shirts.json",
+  "pollMinutes": 10,
+  "scrapeHours": 4,
+  "newDays": 3
+}

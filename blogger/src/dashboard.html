@@ -1,0 +1,62 @@
+<div class='bsr' id='bsr-app'>
+  <header class='bsr-top'>
+    <div class='bsr-brand'>
+      <span aria-hidden='true' class='bsr-logo'>BSR</span>
+      <div>
+        <h1 class='bsr-title'>Funny Shirt BSR Radar</h1>
+        <p class='bsr-subtitle'>Newest Amazon-sold &#8220;funny shirt&#8221; listings that already carry a Best Sellers Rank</p>
+      </div>
+    </div>
+    <div class='bsr-status'>
+      <span class='bsr-dot' data-state='loading' id='bsr-dot'>&#8203;</span>
+      <span id='bsr-updated'>Loading data&#8230;</span>
+      <span class='bsr-countdown' id='bsr-countdown'>&#8203;</span>
+      <label class='bsr-toggle'><input checked='checked' id='bsr-auto' type='checkbox'/> Auto-refresh</label>
+      <button class='bsr-btn' id='bsr-refresh' type='button'>&#8635; Refresh</button>
+    </div>
+  </header>
+
+  <p class='bsr-notice' hidden='hidden' id='bsr-notice'>&#8203;</p>
+
+  <section aria-label='Summary' class='bsr-stats' id='bsr-stats'>&#8203;</section>
+
+  <section aria-label='Sort and filter' class='bsr-controls'>
+    <div aria-label='Sort by' class='bsr-seg' id='bsr-sort' role='group'>
+      <button aria-pressed='true' data-sort='bsr' type='button'>Lowest BSR</button>
+      <button aria-pressed='false' data-sort='newest' type='button'>Newest upload</button>
+      <button aria-pressed='false' data-sort='movers' type='button'>Top movers</button>
+      <button aria-pressed='false' data-sort='price' type='button'>Price</button>
+    </div>
+    <input aria-label='Search title, brand or ASIN' class='bsr-field bsr-search' id='bsr-q' placeholder='Search title, brand or ASIN' type='search'/>
+    <select aria-label='Maximum BSR' class='bsr-field' id='bsr-max'>
+      <option value='0'>Any BSR</option>
+      <option value='50000'>Under 50k</option>
+      <option value='100000'>Under 100k</option>
+      <option value='250000'>Under 250k</option>
+      <option value='500000'>Under 500k</option>
+      <option value='1000000'>Under 1M</option>
+    </select>
+    <select aria-label='Uploaded within' class='bsr-field' id='bsr-age'>
+      <option value='0'>Any upload date</option>
+      <option value='3'>Last 3 days</option>
+      <option value='7'>Last 7 days</option>
+      <option value='30'>Last 30 days</option>
+      <option value='90'>Last 90 days</option>
+    </select>
+  </section>
+
+  <p aria-live='polite' class='bsr-count' id='bsr-count'>&#8203;</p>
+  <div class='bsr-grid' id='bsr-grid'>
+    <div class='bsr-skel'>&#8203;</div>
+    <div class='bsr-skel'>&#8203;</div>
+    <div class='bsr-skel'>&#8203;</div>
+    <div class='bsr-skel'>&#8203;</div>
+  </div>
+  <div class='bsr-empty' hidden='hidden' id='bsr-empty'>&#8203;</div>
+
+  <footer class='bsr-foot'>
+    Scraped every 4 hours by GitHub Actions &#183; BSR is a snapshot, lower is better &#183;
+    <a href='https://www.amazon.com/s?k=funny+shirt&amp;rh=p_6%3AATVPDKIKX0DER&amp;s=date-desc-rank' rel='nofollow noopener' target='_blank'>Source search</a>
+  </footer>
+  <div aria-live='polite' class='bsr-toast' id='bsr-toast' role='status'>&#8203;</div>
+</div>

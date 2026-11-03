@@ -1,0 +1,65 @@
+name: Update BSR shirts
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: Search result pages to read
+        default: '3'
+      max_products:
+        description: Product page visits this run (0 = no cap)
+        default: '150'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-bsr
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        env:
+          BSR_PAGES: ${{ github.event.inputs.pages || '3' }}
+          BSR_MAX_PRODUCTS: ${{ github.event.inputs.max_products || '150' }}
+        run: python scraper/bsr_scraper.py
+
+      - name: Upload unexpected pages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-pages-${{ github.run_id }}
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data/bsr_shirts.json data/watchlist.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git commit -m "data: update BSR shirts $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase --autostash
+          git push
