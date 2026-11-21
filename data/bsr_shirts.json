@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-11-21T15:49:32Z",
-  "run_started": "2026-11-21T15:41:54Z",
+  "last_updated": "2026-11-21T21:20:16Z",
+  "run_started": "2026-11-21T21:15:40Z",
   "source_url": "https://www.amazon.com/s?k=funny+shirt&rh=p_6%3AATVPDKIKX0DER&s=date-desc-rank&dc",
-  "count": 241,
+  "count": 249,
   "stats": {
     "search_results": 144,
-    "new_listings": 18,
-    "checked": 41,
-    "with_bsr": 31,
-    "no_bsr": 10,
+    "new_listings": 17,
+    "checked": 17,
+    "with_bsr": 12,
+    "no_bsr": 5,
     "blocked": true,
-    "watching": 82
+    "watching": 87
   },
   "shirts": [
     {
@@ -21,7 +21,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQF26ZDJ",
-      "search_position": 82,
+      "search_position": 79,
       "sponsored": false,
       "brand": "Funny Political Quote JD habibi",
       "bsr": 228279,
@@ -57,7 +57,7 @@
       "price": "$22.99",
       "price_value": 22.99,
       "url": "https://www.amazon.com/dp/B0HQCVHMCM",
-      "search_position": 87,
+      "search_position": 84,
       "sponsored": false,
       "brand": "Funny Political Quote JD habibi",
       "bsr": 242324,
@@ -93,7 +93,7 @@
       "price": "$21.96",
       "price_value": 21.96,
       "url": "https://www.amazon.com/dp/B0HQT7TTGW",
-      "search_position": 57,
+      "search_position": 58,
       "sponsored": false,
       "brand": "JD Habibi funny meme Shirt",
       "bsr": 422317,
@@ -130,7 +130,7 @@
       "price": "$15.29",
       "price_value": 15.29,
       "url": "https://www.amazon.com/dp/B0GK7QVQQ1",
-      "search_position": null,
+      "search_position": 71,
       "sponsored": false,
       "bsr": 432474,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -165,7 +165,7 @@
       "price": "$24.99",
       "price_value": 24.99,
       "url": "https://www.amazon.com/dp/B0HPYFW33B",
-      "search_position": 112,
+      "search_position": 109,
       "sponsored": false,
       "brand": "Thanksgiving Bears Happy Thanksgiving",
       "bsr": 446616,
@@ -241,7 +241,7 @@
       "price": "$23.99",
       "price_value": 23.99,
       "url": "https://www.amazon.com/dp/B0HQD53QTC",
-      "search_position": 84,
+      "search_position": 81,
       "sponsored": false,
       "brand": "You Know What Rhymes With Christmas Tees",
       "bsr": 518595,
@@ -313,7 +313,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQ1GMX9J",
-      "search_position": 104,
+      "search_position": 101,
       "sponsored": false,
       "brand": "Jimothy Raccoon of Seattle Merch",
       "bsr": 652437,
@@ -385,7 +385,7 @@
       "price": "$17.99",
       "price_value": 17.99,
       "url": "https://www.amazon.com/dp/B0HR455CM2",
-      "search_position": 32,
+      "search_position": 35,
       "sponsored": false,
       "brand": "Funny Thankful For You Fuckers Tee Shirt",
       "bsr": 668485,
@@ -421,7 +421,7 @@
       "price": "$24.99",
       "price_value": 24.99,
       "url": "https://www.amazon.com/dp/B0HQMJP1ZX",
-      "search_position": 70,
+      "search_position": 69,
       "sponsored": false,
       "brand": "Reindeer Christmas Wine",
       "bsr": 701051,
@@ -457,7 +457,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQ53G63T",
-      "search_position": 99,
+      "search_position": 96,
       "sponsored": false,
       "brand": "Funny German Shepherd Dog Boop Christmas Apparel",
       "bsr": 706743,
@@ -566,7 +566,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQTQT7BB",
-      "search_position": 56,
+      "search_position": 57,
       "sponsored": false,
       "bsr": 728352,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -637,7 +637,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HR9PTPWT",
-      "search_position": 25,
+      "search_position": 26,
       "sponsored": false,
       "brand": "Thankful Matching Thanksgiving Couple Tees",
       "bsr": 750173,
@@ -714,7 +714,7 @@
       "price": "$12.99",
       "price_value": 12.99,
       "url": "https://www.amazon.com/dp/B0HPX7C5XX",
-      "search_position": 115,
+      "search_position": 111,
       "sponsored": false,
       "bsr": 757322,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -785,7 +785,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPY8KM88",
-      "search_position": 113,
+      "search_position": 110,
       "sponsored": false,
       "brand": "Funny Thanksgiving Girl Meme Tees",
       "bsr": 766980,
@@ -897,7 +897,7 @@
       "price": "$20.99",
       "price_value": 20.99,
       "url": "https://www.amazon.com/dp/B0HQQ5VL23",
-      "search_position": 62,
+      "search_position": 63,
       "sponsored": false,
       "brand": "Rude Birds Middle Finger Flip Off Adult Humor Tees",
       "bsr": 775447,
@@ -937,7 +937,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQX462L9",
-      "search_position": 51,
+      "search_position": null,
       "sponsored": false,
       "brand": "Habibi Funny Abdul El Sayed Michigan Political",
       "bsr": 779067,
@@ -973,7 +973,7 @@
       "price": "$18.99",
       "price_value": 18.99,
       "url": "https://www.amazon.com/dp/B0HQLWNQRD",
-      "search_position": 71,
+      "search_position": null,
       "sponsored": false,
       "brand": "My Governor's Name is Keisha usa 2026 Election",
       "bsr": 792924,
@@ -1009,7 +1009,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HR9J2ZVJ",
-      "search_position": 23,
+      "search_position": 24,
       "sponsored": false,
       "brand": "Thankful Matching Thanksgiving Couple Tees",
       "bsr": 793810,
@@ -1374,46 +1374,38 @@
       ]
     },
     {
-      "asin": "B0HNKCZKC9",
-      "first_seen": "2026-11-07T17:02:37Z",
-      "title": "Funny Thanksgiving Couple She's My Butter Half & I Loaf Him T-Shirt",
-      "image": "https://m.media-amazon.com/images/I/71RDUSCcraL._AC_UL320_.jpg",
-      "price": "$13.38",
-      "price_value": 13.38,
-      "url": "https://www.amazon.com/dp/B0HNKCZKC9",
-      "search_position": null,
+      "asin": "B0HP91JJBM",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Women's Just A Girl Who Loves Jersey Cows Funny Cow Lover Cartoon T-Shirt",
+      "brand": "Mademark",
+      "image": "https://m.media-amazon.com/images/I/71S+cXZUldL._AC_UL320_.jpg",
+      "price": "$12.99",
+      "price_value": 12.99,
+      "url": "https://www.amazon.com/dp/B0HP91JJBM",
+      "search_position": 143,
       "sponsored": false,
-      "brand": "Funny Thanksgiving Couple Matching Men Women",
-      "bsr": 845239,
+      "bsr": 841523,
       "bsr_category": "Clothing, Shoes & Jewelry",
       "sub_ranks": [
         {
-          "rank": 38073,
+          "rank": 120784,
           "category": "Women's Novelty T-Shirts"
         },
         {
-          "rank": 44894,
-          "category": "Men's Novelty T-Shirts"
-        },
-        {
-          "rank": 227940,
-          "category": "Men's Fashion"
+          "rank": 485887,
+          "category": "Women's Fashion"
         }
       ],
-      "date_first_available": "2026-10-19",
-      "date_first_available_raw": "October 19, 2026",
-      "last_checked": "2026-11-21T15:45:30Z",
-      "checks": 2,
-      "bsr_checked_at": "2026-11-21T15:45:30Z",
-      "bsr_first_seen": "2026-11-07T17:04:16Z",
+      "date_first_available": "2026-10-26",
+      "date_first_available_raw": "October 26, 2026",
+      "last_checked": "2026-11-21T21:18:38Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:18:38Z",
+      "bsr_first_seen": "2026-11-21T21:18:38Z",
       "bsr_history": [
         {
-          "t": "2026-11-07T17:04:16Z",
-          "bsr": 3131853
-        },
-        {
-          "t": "2026-11-21T15:45:30Z",
-          "bsr": 845239
+          "t": "2026-11-21T21:18:38Z",
+          "bsr": 841523
         }
       ]
     },
@@ -1425,7 +1417,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQYY4576",
-      "search_position": 47,
+      "search_position": 51,
       "sponsored": false,
       "brand": "Vintage Gangster Santa Reindeer Xmas Holiday Tees",
       "bsr": 851698,
@@ -1454,6 +1446,78 @@
       ]
     },
     {
+      "asin": "B0HQ1434P6",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Most Likely to Get Sassy with Santa Funny Family Christmas Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71dMf9Fm24L._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HQ1434P6",
+      "search_position": 103,
+      "sponsored": false,
+      "brand": "Most Likely To Xmas Family Christmas Tees",
+      "bsr": 863263,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 40066,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 47115,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-01",
+      "date_first_available_raw": "November 1, 2026",
+      "last_checked": "2026-11-21T21:17:41Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:17:41Z",
+      "bsr_first_seen": "2026-11-21T21:17:41Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:17:41Z",
+          "bsr": 863263
+        }
+      ]
+    },
+    {
+      "asin": "B0HQJLZTDW",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Christmas Yorkie Santa Funny Dog Selfie with Santa Gifts Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71C9TjxPKuL._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HQJLZTDW",
+      "search_position": 73,
+      "sponsored": false,
+      "brand": "Yorkie Dog Selfie With Santa Christmas Shirt",
+      "bsr": 863299,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 40068,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 47117,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-05",
+      "date_first_available_raw": "November 5, 2026",
+      "last_checked": "2026-11-21T21:17:18Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:17:18Z",
+      "bsr_first_seen": "2026-11-21T21:17:18Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:17:18Z",
+          "bsr": 863299
+        }
+      ]
+    },
+    {
       "asin": "B0HP9381RN",
       "first_seen": "2026-11-08T23:15:16Z",
       "title": "Pass The Pittatoes Funny Pitbull Dog Thanksgiving Humor Dogs Long Sleeve T-Shirt",
@@ -1461,7 +1525,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HP9381RN",
-      "search_position": null,
+      "search_position": 144,
       "sponsored": false,
       "brand": "Funny Thanksgiving Pitbull Dog Lover Tees",
       "bsr": 886463,
@@ -1490,6 +1554,42 @@
       ]
     },
     {
+      "asin": "B0HR5YHLCQ",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Feral But Thankful Thanksgiving Raccoon Friendsgiving Fall Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71zeVdqbFsL._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HR5YHLCQ",
+      "search_position": 32,
+      "sponsored": false,
+      "brand": "Feral But Thankful Retro Thanksgiving Raccoon Fall",
+      "bsr": 911445,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 45311,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 53096,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-10",
+      "date_first_available_raw": "November 10, 2026",
+      "last_checked": "2026-11-21T21:16:52Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:16:52Z",
+      "bsr_first_seen": "2026-11-21T21:16:52Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:16:52Z",
+          "bsr": 911445
+        }
+      ]
+    },
+    {
       "asin": "B0HPL34RBP",
       "first_seen": "2026-11-10T04:54:32Z",
       "title": "Funny Bernedoodle Dog Santa Paws Hat Christmas Lights Bruh Long Sleeve T-Shirt",
@@ -1497,7 +1597,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPL34RBP",
-      "search_position": 126,
+      "search_position": 123,
       "sponsored": false,
       "brand": "Santa Paws Bernedoodle 3000",
       "bsr": 926435,
@@ -1569,7 +1669,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPTGMV4B",
-      "search_position": 119,
+      "search_position": 114,
       "sponsored": false,
       "brand": "Funny Labrador Selfie Forest Creature Dog Outdoors",
       "bsr": 934112,
@@ -1641,7 +1741,7 @@
       "price": "$17.99",
       "price_value": 17.99,
       "url": "https://www.amazon.com/dp/B0HPM8595L",
-      "search_position": 123,
+      "search_position": 119,
       "sponsored": false,
       "brand": "Tiptoeing Memes",
       "bsr": 957841,
@@ -1718,7 +1818,7 @@
       "price": "$28.99",
       "price_value": 28.99,
       "url": "https://www.amazon.com/dp/B0HPBNL2SG",
-      "search_position": 135,
+      "search_position": 133,
       "sponsored": false,
       "bsr": 1011895,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -2009,7 +2109,7 @@
       "price": "$23.99",
       "price_value": 23.99,
       "url": "https://www.amazon.com/dp/B0HQP8TJC4",
-      "search_position": 64,
+      "search_position": 65,
       "sponsored": false,
       "brand": "Not The Worst Employee Christmas Office Sweater",
       "bsr": 1024712,
@@ -2045,7 +2145,7 @@
       "price": "$19.95",
       "price_value": 19.95,
       "url": "https://www.amazon.com/dp/B0HQGKZKGP",
-      "search_position": 78,
+      "search_position": 76,
       "sponsored": false,
       "brand": "Merry Christmas Santa Claus Xmas Vacation Apparel",
       "bsr": 1025247,
@@ -2197,7 +2297,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQ4BLBMD",
-      "search_position": 100,
+      "search_position": 97,
       "sponsored": false,
       "brand": "Funny Thanksgiving Friends Fall Party Holiday",
       "bsr": 1070374,
@@ -2277,7 +2377,7 @@
       "price": "$17.99",
       "price_value": 17.99,
       "url": "https://www.amazon.com/dp/B0HQ1BM3KW",
-      "search_position": 107,
+      "search_position": null,
       "sponsored": false,
       "brand": "Thanksgiving Lions Happy Thanksgiving",
       "bsr": 1095488,
@@ -2342,46 +2442,42 @@
       ]
     },
     {
-      "asin": "B0HNK4DT65",
-      "first_seen": "2026-11-07T17:02:37Z",
-      "title": "Funny Thanksgiving Couple She's My Butter Half & I Loaf Him T-Shirt",
-      "image": "https://m.media-amazon.com/images/I/71i8ORYEQEL._AC_UL320_.jpg",
-      "price": "$13.38",
-      "price_value": 13.38,
-      "url": "https://www.amazon.com/dp/B0HNK4DT65",
-      "search_position": null,
+      "asin": "B0HRJ3M15R",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Let Me Know If My Biceps Get in Your Way Funny Gym Humor Performance T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/61NrbL-698L._AC_UL320_.jpg",
+      "price": "$19.99",
+      "price_value": 19.99,
+      "url": "https://www.amazon.com/dp/B0HRJ3M15R",
+      "search_position": 20,
       "sponsored": false,
-      "brand": "Funny Thanksgiving Couple Matching Men Women",
-      "bsr": 1100017,
+      "brand": "Retro Gym Let Me Know If My Biceps Get in Your Way",
+      "bsr": 1117304,
       "bsr_category": "Clothing, Shoes & Jewelry",
       "sub_ranks": [
         {
-          "rank": 75013,
-          "category": "Women's Novelty T-Shirts"
+          "rank": 44574,
+          "category": "Boys' Novelty T-Shirts"
         },
         {
-          "rank": 85667,
+          "rank": 45243,
+          "category": "Girls' Novelty T-Shirts"
+        },
+        {
+          "rank": 87444,
           "category": "Men's Novelty T-Shirts"
-        },
-        {
-          "rank": 324409,
-          "category": "Men's Fashion"
         }
       ],
-      "date_first_available": "2026-10-19",
-      "date_first_available_raw": "October 19, 2026",
-      "last_checked": "2026-11-21T15:45:23Z",
-      "checks": 2,
-      "bsr_checked_at": "2026-11-21T15:45:23Z",
-      "bsr_first_seen": "2026-11-07T17:04:06Z",
+      "date_first_available": "2026-11-12",
+      "date_first_available_raw": "November 12, 2026",
+      "last_checked": "2026-11-21T21:16:25Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:16:25Z",
+      "bsr_first_seen": "2026-11-21T21:16:25Z",
       "bsr_history": [
         {
-          "t": "2026-11-07T17:04:06Z",
-          "bsr": 3131841
-        },
-        {
-          "t": "2026-11-21T15:45:23Z",
-          "bsr": 1100017
+          "t": "2026-11-21T21:16:25Z",
+          "bsr": 1117304
         }
       ]
     },
@@ -2578,7 +2674,7 @@
       "price": "$20.99",
       "price_value": 20.99,
       "url": "https://www.amazon.com/dp/B0HR39BD88",
-      "search_position": 36,
+      "search_position": 39,
       "sponsored": false,
       "bsr": 1221006,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -2613,7 +2709,7 @@
       "price": "$20.99",
       "price_value": 20.99,
       "url": "https://www.amazon.com/dp/B0HPYH1MXG",
-      "search_position": 110,
+      "search_position": 107,
       "sponsored": false,
       "brand": "Thanksgiving Bears Happy Thanksgiving",
       "bsr": 1221861,
@@ -2654,7 +2750,7 @@
       "price": "$23.99",
       "price_value": 23.99,
       "url": "https://www.amazon.com/dp/B0HR9G5D9T",
-      "search_position": 21,
+      "search_position": 22,
       "sponsored": false,
       "bsr": 1222228,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -2801,7 +2897,7 @@
       "price": "$24.98",
       "price_value": 24.98,
       "url": "https://www.amazon.com/dp/B0HPJMD7V2",
-      "search_position": 129,
+      "search_position": 127,
       "sponsored": false,
       "brand": "Cowgirl Riding Turkey Vintage Thanksgiving",
       "bsr": 1269329,
@@ -2909,7 +3005,7 @@
       "price": "$27.99",
       "price_value": 27.99,
       "url": "https://www.amazon.com/dp/B0HR2QNTW3",
-      "search_position": 37,
+      "search_position": 40,
       "sponsored": false,
       "brand": "Funny Fantasy Ren Faire Xmas Holiday",
       "bsr": 1292328,
@@ -3237,7 +3333,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQ13DRL7",
-      "search_position": null,
+      "search_position": 104,
       "sponsored": false,
       "brand": "Thanksgiving Lions Happy Thanksgiving",
       "bsr": 1318574,
@@ -3905,7 +4001,7 @@
       "price": "$18.99",
       "price_value": 18.99,
       "url": "https://www.amazon.com/dp/B0HQ5C8S51",
-      "search_position": 98,
+      "search_position": 95,
       "sponsored": false,
       "brand": "Funny German Shepherd Dog Boop Christmas Apparel",
       "bsr": 1460312,
@@ -3942,7 +4038,7 @@
       "price": "$19.99",
       "price_value": 19.99,
       "url": "https://www.amazon.com/dp/B0HQ8X3GQS",
-      "search_position": 89,
+      "search_position": 86,
       "sponsored": false,
       "bsr": 1460429,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -3982,7 +4078,7 @@
       "price": "$12.99",
       "price_value": 12.99,
       "url": "https://www.amazon.com/dp/B0HPNMMY91",
-      "search_position": 122,
+      "search_position": 117,
       "sponsored": false,
       "bsr": 1469896,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -4017,7 +4113,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQFTJXKH",
-      "search_position": 79,
+      "search_position": 77,
       "sponsored": false,
       "brand": "Funny Christmas Matching Shirt Couples Women & Men",
       "bsr": 1470537,
@@ -4086,6 +4182,42 @@
       ]
     },
     {
+      "asin": "B0HPL92RQ8",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Not The Worst Employee Funny Office Ugly Christmas Sweater Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/812SQs2UUxL._AC_UL320_.jpg",
+      "price": "$23.99",
+      "price_value": 23.99,
+      "url": "https://www.amazon.com/dp/B0HPL92RQ8",
+      "search_position": 122,
+      "sponsored": false,
+      "brand": "Funny Ugly Office Work Christmas Sweater",
+      "bsr": 1483645,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 125521,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 141341,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-10-28",
+      "date_first_available_raw": "October 28, 2026",
+      "last_checked": "2026-11-21T21:18:02Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:18:02Z",
+      "bsr_first_seen": "2026-11-21T21:18:02Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:18:02Z",
+          "bsr": 1483645
+        }
+      ]
+    },
+    {
       "asin": "B0HQ1F2ZHJ",
       "first_seen": "2026-11-19T04:41:59Z",
       "title": "Women's Overstimulated But Festive Funny Christmas Raccoon Design V-Neck T-Shirt",
@@ -4093,7 +4225,7 @@
       "price": "$19.99",
       "price_value": 19.99,
       "url": "https://www.amazon.com/dp/B0HQ1F2ZHJ",
-      "search_position": 105,
+      "search_position": 102,
       "sponsored": false,
       "brand": "Cozy Critter Holiday Art",
       "bsr": 1490705,
@@ -4277,7 +4409,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPL2C2MW",
-      "search_position": 127,
+      "search_position": 124,
       "sponsored": false,
       "brand": "Retro Funny Turkey Moon Thanksgiving Apparel",
       "bsr": 1529486,
@@ -4412,7 +4544,7 @@
       "price": "$24.99",
       "price_value": 24.99,
       "url": "https://www.amazon.com/dp/B0HPWVMHBL",
-      "search_position": 116,
+      "search_position": 112,
       "sponsored": false,
       "brand": "Bowling Mom Era Cat Designs",
       "bsr": 1535006,
@@ -4968,7 +5100,7 @@
       "price": "$19.99",
       "price_value": 19.99,
       "url": "https://www.amazon.com/dp/B0HQQ127VD",
-      "search_position": 61,
+      "search_position": 62,
       "sponsored": false,
       "brand": "Pumpkin Pie Whipped Cream Boop Thanksgiving Tees",
       "bsr": 1553090,
@@ -5008,7 +5140,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQYG7Z4F",
-      "search_position": 48,
+      "search_position": 52,
       "sponsored": false,
       "brand": "Funny Thanksgiving Surfing Apparel",
       "bsr": 1553230,
@@ -5192,7 +5324,7 @@
       "price": "$24.99",
       "price_value": 24.99,
       "url": "https://www.amazon.com/dp/B0HQK621RP",
-      "search_position": 73,
+      "search_position": 72,
       "sponsored": false,
       "brand": "Dungeon Crawler Carl",
       "bsr": 1554593,
@@ -5232,7 +5364,7 @@
       "price": "$20.99",
       "price_value": 20.99,
       "url": "https://www.amazon.com/dp/B0HQPJ8RN4",
-      "search_position": 65,
+      "search_position": null,
       "sponsored": false,
       "brand": "Panic Turkey Studio",
       "bsr": 1554681,
@@ -5456,7 +5588,7 @@
       "price": "$18.99",
       "price_value": 18.99,
       "url": "https://www.amazon.com/dp/B0HQ7JWNTD",
-      "search_position": 90,
+      "search_position": 87,
       "sponsored": false,
       "brand": "Funny Gingerbread Christmas & Holiday Humor",
       "bsr": 1557823,
@@ -5636,7 +5768,7 @@
       "price": "$18.99",
       "price_value": 18.99,
       "url": "https://www.amazon.com/dp/B0HR9QDP9J",
-      "search_position": 22,
+      "search_position": 23,
       "sponsored": false,
       "brand": "Funny Christmas Santa in Martini Glass",
       "bsr": 1565691,
@@ -5701,6 +5833,42 @@
       ]
     },
     {
+      "asin": "B0HPB282ST",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Men's Pajama Shirt Approved For Sleep Duty Funny Novelty T-Shirt",
+      "brand": "Mademark",
+      "image": "https://m.media-amazon.com/images/I/61PWoLO8JTL._AC_UL320_.jpg",
+      "price": "$12.99",
+      "price_value": 12.99,
+      "url": "https://www.amazon.com/dp/B0HPB282ST",
+      "search_position": 140,
+      "sponsored": false,
+      "bsr": 1567077,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 159235,
+          "category": "Men's Novelty T-Shirts"
+        },
+        {
+          "rank": 496130,
+          "category": "Men's Fashion"
+        }
+      ],
+      "date_first_available": "2026-10-26",
+      "date_first_available_raw": "October 26, 2026",
+      "last_checked": "2026-11-21T21:18:30Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:18:30Z",
+      "bsr_first_seen": "2026-11-21T21:18:30Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:18:30Z",
+          "bsr": 1567077
+        }
+      ]
+    },
+    {
       "asin": "B0HQJWCQD5",
       "first_seen": "2026-11-19T04:41:59Z",
       "title": "Men's Scare Bears - Funny Horror Movie Saying Scary Novelty Horror Performance T-Shirt",
@@ -5737,6 +5905,42 @@
       ]
     },
     {
+      "asin": "B0HQ79V749",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "3 Wise Men Tonight We Ride Christmas Matching Family Xmas Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71nun6ZusfL._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HQ79V749",
+      "search_position": 90,
+      "sponsored": false,
+      "brand": "Funny Tonight We Ride Christmas Shirt Xmas Family",
+      "bsr": 1567856,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 142526,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 159280,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-03",
+      "date_first_available_raw": "November 3, 2026",
+      "last_checked": "2026-11-21T21:17:24Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:17:24Z",
+      "bsr_first_seen": "2026-11-21T21:17:24Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:17:24Z",
+          "bsr": 1567856
+        }
+      ]
+    },
+    {
       "asin": "B0HQGTK7JF",
       "first_seen": "2026-11-21T15:41:54Z",
       "title": "Funny Christmas Dachshund Santa Reindeer Weiner Dog Lover Long Sleeve T-Shirt",
@@ -5744,7 +5948,7 @@
       "price": "$22.99",
       "price_value": 22.99,
       "url": "https://www.amazon.com/dp/B0HQGTK7JF",
-      "search_position": 77,
+      "search_position": null,
       "sponsored": false,
       "brand": "Funny Christmas Dachshund Weiner Dog Lover Xmas",
       "bsr": 1567967,
@@ -5781,7 +5985,7 @@
       "price": "$12.99",
       "price_value": 12.99,
       "url": "https://www.amazon.com/dp/B0HR22QRP9",
-      "search_position": 35,
+      "search_position": 38,
       "sponsored": false,
       "bsr": 1568393,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -5817,7 +6021,7 @@
       "price": "$12.99",
       "price_value": 12.99,
       "url": "https://www.amazon.com/dp/B0HR68SCBR",
-      "search_position": 29,
+      "search_position": 31,
       "sponsored": false,
       "bsr": 1568471,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -5852,7 +6056,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPKGDT9C",
-      "search_position": 128,
+      "search_position": 125,
       "sponsored": false,
       "brand": "Funny Side Chick T-Shirt for Men Women",
       "bsr": 1584342,
@@ -5924,7 +6128,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPBKPMKN",
-      "search_position": 137,
+      "search_position": 135,
       "sponsored": false,
       "brand": "Funny Bartender Appreciation Bartending",
       "bsr": 1643329,
@@ -5985,6 +6189,42 @@
         {
           "t": "2026-11-18T01:56:40Z",
           "bsr": 1644407
+        }
+      ]
+    },
+    {
+      "asin": "B0HQNSCBMT",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Vintage Style Design Popular Music Bands of The 90's Band Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71Xo5LGBP6L._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HQNSCBMT",
+      "search_position": 66,
+      "sponsored": false,
+      "brand": "Vintage Style Design Music Bands of The 90's Funny",
+      "bsr": 1645320,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 150213,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 168075,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-06",
+      "date_first_available_raw": "November 6, 2026",
+      "last_checked": "2026-11-21T21:17:10Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:17:10Z",
+      "bsr_first_seen": "2026-11-21T21:17:10Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:17:10Z",
+          "bsr": 1645320
         }
       ]
     },
@@ -6112,7 +6352,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HR335Y53",
-      "search_position": 38,
+      "search_position": 41,
       "sponsored": false,
       "brand": "Funny Brother Thanksgiving Shirt Pumpkin Pie Kids",
       "bsr": 1667500,
@@ -6264,7 +6504,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPY9T4Y6",
-      "search_position": 114,
+      "search_position": null,
       "sponsored": false,
       "brand": "Reindoodle Christmas Reindeer Doodle Dog Xmas Tees",
       "bsr": 1758014,
@@ -6304,7 +6544,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPT5YJB1",
-      "search_position": 118,
+      "search_position": null,
       "sponsored": false,
       "brand": "I Gave It To God Coffee Monster Bible Faith",
       "bsr": 1759403,
@@ -6456,7 +6696,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQJSG7NF",
-      "search_position": 75,
+      "search_position": 74,
       "sponsored": false,
       "brand": "Funny Cowboy Turkey Thanksgiving Apparel",
       "bsr": 1793771,
@@ -6493,7 +6733,7 @@
       "price": "$12.99",
       "price_value": 12.99,
       "url": "https://www.amazon.com/dp/B0HPQDMS6V",
-      "search_position": 120,
+      "search_position": 115,
       "sponsored": false,
       "bsr": 1793872,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -6519,7 +6759,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQTL4Z2Y",
-      "search_position": 55,
+      "search_position": 56,
       "sponsored": false,
       "brand": "Festive As FCK Shih Tzu Christmas Dog Sarcastic",
       "bsr": 1794887,
@@ -6627,7 +6867,7 @@
       "price": "$17.75",
       "price_value": 17.75,
       "url": "https://www.amazon.com/dp/B0HQDLRDTH",
-      "search_position": 83,
+      "search_position": 80,
       "sponsored": false,
       "brand": "What The Pluck Shirts",
       "bsr": 1801361,
@@ -6663,7 +6903,7 @@
       "price": "$23.99",
       "price_value": 23.99,
       "url": "https://www.amazon.com/dp/B0HQPGS3PJ",
-      "search_position": 63,
+      "search_position": 64,
       "sponsored": false,
       "brand": "Not The Worst Employee Christmas Office Sweater",
       "bsr": 1803210,
@@ -6699,7 +6939,7 @@
       "price": "$18.99",
       "price_value": 18.99,
       "url": "https://www.amazon.com/dp/B0HPTGQCL5",
-      "search_position": 117,
+      "search_position": 113,
       "sponsored": false,
       "brand": "Funny Turkey Thanksgiving Humor",
       "bsr": 1806452,
@@ -6735,7 +6975,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQTNMG79",
-      "search_position": 58,
+      "search_position": 59,
       "sponsored": false,
       "brand": "JD Habibi funny meme Shirt",
       "bsr": 1807036,
@@ -6772,7 +7012,7 @@
       "price": "$20.99",
       "price_value": 20.99,
       "url": "https://www.amazon.com/dp/B0HPMDVQKX",
-      "search_position": 124,
+      "search_position": 120,
       "sponsored": false,
       "bsr": 1810565,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -6919,7 +7159,7 @@
       "price": "$14.99",
       "price_value": 14.99,
       "url": "https://www.amazon.com/dp/B0HPJLFYDX",
-      "search_position": 130,
+      "search_position": 128,
       "sponsored": false,
       "brand": "Funny Sober Santa Christmas Adult Holiday Tee",
       "bsr": 1818032,
@@ -6980,6 +7220,42 @@
         {
           "t": "2026-11-17T05:25:50Z",
           "bsr": 1818368
+        }
+      ]
+    },
+    {
+      "asin": "B0HR1TXZ8P",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Frog Thanksgiving Turkey Costume Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71gCStkymYL._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HR1TXZ8P",
+      "search_position": 45,
+      "sponsored": false,
+      "brand": "Funny Frog Thanksgiving Apparel",
+      "bsr": 1819215,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 177174,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 197442,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-09",
+      "date_first_available_raw": "November 9, 2026",
+      "last_checked": "2026-11-21T21:17:02Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:17:02Z",
+      "bsr_first_seen": "2026-11-21T21:17:02Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:17:02Z",
+          "bsr": 1819215
         }
       ]
     },
@@ -7063,7 +7339,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPBBXWS1",
-      "search_position": 141,
+      "search_position": 139,
       "sponsored": false,
       "brand": "Thankful Turkey Family Humor",
       "bsr": 1875976,
@@ -7327,7 +7603,7 @@
       "price": "$19.95",
       "price_value": 19.95,
       "url": "https://www.amazon.com/dp/B0HP997FFK",
-      "search_position": 143,
+      "search_position": 141,
       "sponsored": false,
       "brand": "Merry Christmas Matching Couples His Hers Apparel",
       "bsr": 2053455,
@@ -7363,7 +7639,7 @@
       "price": "$19.95",
       "price_value": 19.95,
       "url": "https://www.amazon.com/dp/B0HP9CZZJ5",
-      "search_position": 144,
+      "search_position": 142,
       "sponsored": false,
       "brand": "Merry Christmas Matching Couples His Hers Apparel",
       "bsr": 2053457,
@@ -7471,7 +7747,7 @@
       "price": "$17.99",
       "price_value": 17.99,
       "url": "https://www.amazon.com/dp/B0HQ3GHDGX",
-      "search_position": 101,
+      "search_position": 98,
       "sponsored": false,
       "brand": "Christmas Green Face Ew People Funny Green Elf",
       "bsr": 2080978,
@@ -7507,7 +7783,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HR5TJPB9",
-      "search_position": 30,
+      "search_position": 33,
       "sponsored": false,
       "brand": "Rocking Humor Skeleton Christmas Men Women Shirt",
       "bsr": 2084089,
@@ -7623,7 +7899,7 @@
       "price": "$19.99",
       "price_value": 19.99,
       "url": "https://www.amazon.com/dp/B0HQB5JCPK",
-      "search_position": 88,
+      "search_position": 85,
       "sponsored": false,
       "brand": "Funny Christmas Break Holiday Vacation Designs",
       "bsr": 2153824,
@@ -7728,6 +8004,42 @@
       ]
     },
     {
+      "asin": "B0HPG71K6H",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Women's Vintage Grumpy Crow Sarcastic Bird Graphic V-Neck T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71aWR1SGCJL._AC_UL320_.jpg",
+      "price": "$18.99",
+      "price_value": 18.99,
+      "url": "https://www.amazon.com/dp/B0HPG71K6H",
+      "search_position": 130,
+      "sponsored": false,
+      "brand": "Funny Vintage Bird Gifts",
+      "bsr": 2344848,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 251492,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 1433103,
+          "category": "Women's Fashion"
+        }
+      ],
+      "date_first_available": "2026-10-27",
+      "date_first_available_raw": "October 27, 2026",
+      "last_checked": "2026-11-21T21:18:20Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:18:20Z",
+      "bsr_first_seen": "2026-11-21T21:18:20Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:18:20Z",
+          "bsr": 2344848
+        }
+      ]
+    },
+    {
       "asin": "B0HR1DBQCQ",
       "first_seen": "2026-11-18T01:55:04Z",
       "title": "Long Sleeve T-Shirt",
@@ -7808,7 +8120,7 @@
       "price": "$19.90",
       "price_value": 19.9,
       "url": "https://www.amazon.com/dp/B0HQQZSK5Q",
-      "search_position": 60,
+      "search_position": 61,
       "sponsored": false,
       "bsr": 2413242,
       "bsr_category": "Clothing, Shoes & Jewelry",
@@ -7910,7 +8222,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HQPC1QMP",
-      "search_position": 67,
+      "search_position": null,
       "sponsored": false,
       "brand": "Catholic Saint Anthony Humor Gifts",
       "bsr": 2600972,
@@ -8131,6 +8443,42 @@
       ]
     },
     {
+      "asin": "B0HQ67TG7X",
+      "first_seen": "2026-11-21T21:15:40Z",
+      "title": "Boop Pitbull Dog Reindeer Santa Claus Christmas Holiday Long Sleeve T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/71rV-MsHg8L._AC_UL320_.jpg",
+      "price": "$21.99",
+      "price_value": 21.99,
+      "url": "https://www.amazon.com/dp/B0HQ67TG7X",
+      "search_position": 93,
+      "sponsored": false,
+      "brand": "Funny Pitbull Dog Boop Christmas Apparel",
+      "bsr": 2814291,
+      "bsr_category": "Clothing, Shoes & Jewelry",
+      "sub_ranks": [
+        {
+          "rank": 322180,
+          "category": "Women's Novelty T-Shirts"
+        },
+        {
+          "rank": 359022,
+          "category": "Men's Novelty T-Shirts"
+        }
+      ],
+      "date_first_available": "2026-11-03",
+      "date_first_available_raw": "November 3, 2026",
+      "last_checked": "2026-11-21T21:17:32Z",
+      "checks": 1,
+      "bsr_checked_at": "2026-11-21T21:17:32Z",
+      "bsr_first_seen": "2026-11-21T21:17:32Z",
+      "bsr_history": [
+        {
+          "t": "2026-11-21T21:17:32Z",
+          "bsr": 2814291
+        }
+      ]
+    },
+    {
       "asin": "B0HP6M9W8W",
       "first_seen": "2026-11-11T03:20:33Z",
       "title": "Women's Thankful for You Fuckers Funny Thanksgiving Costume Sarcasm V-Neck T-Shirt",
@@ -8163,46 +8511,6 @@
         {
           "t": "2026-11-11T03:22:01Z",
           "bsr": 2837842
-        }
-      ]
-    },
-    {
-      "asin": "B0HP7GK3NS",
-      "first_seen": "2026-11-07T17:02:37Z",
-      "title": "Women's Vintage Dinner Sides Menu Funny Food Thanksgiving Side Chick V-Neck T-Shirt",
-      "image": "https://m.media-amazon.com/images/I/71OdWdEVP7L._AC_UL320_.jpg",
-      "price": "$18.99",
-      "price_value": 18.99,
-      "url": "https://www.amazon.com/dp/B0HP7GK3NS",
-      "search_position": null,
-      "sponsored": false,
-      "brand": "Funny Food Side Chick Thanksgiving Dinner Sides",
-      "bsr": 2989445,
-      "bsr_category": "Clothing, Shoes & Jewelry",
-      "sub_ranks": [
-        {
-          "rank": 349509,
-          "category": "Women's Novelty T-Shirts"
-        },
-        {
-          "rank": 1856549,
-          "category": "Women's Fashion"
-        }
-      ],
-      "date_first_available": "2026-10-25",
-      "date_first_available_raw": "October 25, 2026",
-      "last_checked": "2026-11-21T15:45:15Z",
-      "checks": 2,
-      "bsr_checked_at": "2026-11-21T15:45:15Z",
-      "bsr_first_seen": "2026-11-07T17:03:28Z",
-      "bsr_history": [
-        {
-          "t": "2026-11-07T17:03:28Z",
-          "bsr": 1526935
-        },
-        {
-          "t": "2026-11-21T15:45:15Z",
-          "bsr": 2989445
         }
       ]
     },
@@ -8243,50 +8551,6 @@
         {
           "t": "2026-11-21T15:46:10Z",
           "bsr": 3034485
-        }
-      ]
-    },
-    {
-      "asin": "B0HNK75WS7",
-      "first_seen": "2026-11-07T17:02:37Z",
-      "title": "Funny Snowman Christmas Gamer Xmas Gaming Men Boys Kids T-Shirt",
-      "image": "https://m.media-amazon.com/images/I/71FI0QIAFEL._AC_UL320_.jpg",
-      "price": "$13.38",
-      "price_value": 13.38,
-      "url": "https://www.amazon.com/dp/B0HNK75WS7",
-      "search_position": null,
-      "sponsored": false,
-      "brand": "Funny Christmas Gamer Snowman Boys Men Kids",
-      "bsr": 3168480,
-      "bsr_category": "Clothing, Shoes & Jewelry",
-      "sub_ranks": [
-        {
-          "rank": 210991,
-          "category": "Boys' Novelty T-Shirts"
-        },
-        {
-          "rank": 214170,
-          "category": "Girls' Novelty T-Shirts"
-        },
-        {
-          "rank": 295903,
-          "category": "Girls' Fashion"
-        }
-      ],
-      "date_first_available": "2026-10-19",
-      "date_first_available_raw": "October 19, 2026",
-      "last_checked": "2026-11-21T15:45:37Z",
-      "checks": 2,
-      "bsr_checked_at": "2026-11-21T15:45:37Z",
-      "bsr_first_seen": "2026-11-07T17:04:37Z",
-      "bsr_history": [
-        {
-          "t": "2026-11-07T17:04:37Z",
-          "bsr": 2772270
-        },
-        {
-          "t": "2026-11-21T15:45:37Z",
-          "bsr": 3168480
         }
       ]
     },
@@ -8342,7 +8606,7 @@
       "price": "$19.99",
       "price_value": 19.99,
       "url": "https://www.amazon.com/dp/B0HQWVQY6R",
-      "search_position": 52,
+      "search_position": null,
       "sponsored": false,
       "brand": "Merry Retro Christmas Tees",
       "bsr": 3195444,
@@ -8494,7 +8758,7 @@
       "price": "$25.99",
       "price_value": 25.99,
       "url": "https://www.amazon.com/dp/B0HPB79S6V",
-      "search_position": 140,
+      "search_position": 138,
       "sponsored": false,
       "brand": "Funny Mailman Tee shirt",
       "bsr": 3445795,
@@ -8530,7 +8794,7 @@
       "price": "$21.99",
       "price_value": 21.99,
       "url": "https://www.amazon.com/dp/B0HPPF67PX",
-      "search_position": 121,
+      "search_position": 116,
       "sponsored": false,
       "brand": "Christmas Cat Retro Tees",
       "bsr": 3466710,
